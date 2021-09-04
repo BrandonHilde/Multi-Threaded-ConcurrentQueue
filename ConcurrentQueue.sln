@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcurrentQueue", "ConcurrentQueue\ConcurrentQueue.csproj", "{328DDFF0-79B8-4469-AFA4-180D35A0A176}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{328DDFF0-79B8-4469-AFA4-180D35A0A176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{328DDFF0-79B8-4469-AFA4-180D35A0A176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{328DDFF0-79B8-4469-AFA4-180D35A0A176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{328DDFF0-79B8-4469-AFA4-180D35A0A176}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80F16650-6F92-481C-A570-828CECD39941}
+	EndGlobalSection
+EndGlobal
